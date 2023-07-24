@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarpPractice", "srzhzshzsh\GarpPractice.csproj", "{7EC14AB3-E637-4666-9B71-BE7420C65E48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testconsole", "Testconsole\Testconsole.csproj", "{0D687B21-9B15-4032-82CB-ED8EF48B7DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EC14AB3-E637-4666-9B71-BE7420C65E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC14AB3-E637-4666-9B71-BE7420C65E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC14AB3-E637-4666-9B71-BE7420C65E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC14AB3-E637-4666-9B71-BE7420C65E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D687B21-9B15-4032-82CB-ED8EF48B7DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D687B21-9B15-4032-82CB-ED8EF48B7DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D687B21-9B15-4032-82CB-ED8EF48B7DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D687B21-9B15-4032-82CB-ED8EF48B7DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D941519-8860-4C7B-AA99-B7EE988501EF}
+	EndGlobalSection
+EndGlobal
